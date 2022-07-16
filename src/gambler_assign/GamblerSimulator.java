@@ -1,6 +1,7 @@
 package gambler_assign;
 
 public class GamblerSimulator {
+    int i=0;
 
     public static void main(String args[]) {
 
